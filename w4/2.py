@@ -1,3 +1,5 @@
+# https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3774
+
 n = int(input())
 d = {}
 all = set()
