@@ -1,5 +1,8 @@
 # https://informatics.msk.ru/mod/statements/view.php?id=4535&chapterid=3774
 
+import sys 
+sys.setrecursionlimit(10**6)
+
 n = int(input())
 d = {}
 all = set()
